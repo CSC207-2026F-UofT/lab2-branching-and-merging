@@ -23,7 +23,7 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 
 ## Frosting
 
-- 1 cup unsalted butter, softened
+- 1 cup unsalted browned butter
 - 4 cups powdered sugar
 - 2 teaspoons vanilla extract
 - [FROSTING FLAVOUR]
