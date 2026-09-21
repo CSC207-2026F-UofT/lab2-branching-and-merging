@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f226d91-71c9-4c6d-8f2e-e9f7eb0fc9dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2-branching-and-merging.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "CarrotSlayer97"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/CarrotSlayer97/lab2-branching-and-merging.git",
+    "accountId": "4ee5973a-0cd8-4dd3-8a0e-cdfed612b17b"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.7179853039863913" />
+      <entry key="MS500" value="3.8859991263389766" />
+      <entry key="S2" value="6.6791034848479915" />
+      <entry key="S5" value="11.128721544708371" />
+      <entry key="S10" value="19.140214744308857" />
+      <entry key="S30" value="38.64209334049792" />
+      <entry key="S60" value="51.70907070835231" />
+      <entry key="M2" value="66.31785672109682" />
+      <entry key="M5" value="94.64123745859477" />
+      <entry key="M10" value="126.32613981814536" />
+      <entry key="M15" value="148.0212108986042" />
+      <entry key="M30" value="184.38402028189063" />
+      <entry key="H1" value="212.59402108923518" />
+      <entry key="H2" value="230.59500041968835" />
+      <entry key="H4" value="240.82630346729044" />
+      <entry key="D1" value="250.06795734977675" />
+      <entry key="W1" value="251.72222599703738" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="7.023665996028477E-129" />
+      <entry key="S5" value="5.478044304656277E-52" />
+      <entry key="S10" value="2.3405222290455328E-26" />
+      <entry key="S30" value="2.860471269368383E-9" />
+      <entry key="S60" value="5.3483373765763656E-5" />
+      <entry key="M2" value="0.007313232784874533" />
+      <entry key="M5" value="0.13984397465272114" />
+      <entry key="M10" value="0.37395718291366165" />
+      <entry key="M15" value="0.5190564430785175" />
+      <entry key="M30" value="0.7204557190268666" />
+      <entry key="H1" value="0.8487966299572973" />
+      <entry key="H2" value="0.9213015955469166" />
+      <entry key="H4" value="0.959844568431218" />
+      <entry key="D1" value="0.993192623295252" />
+      <entry key="W1" value="0.999024668433119" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.622316215177036" />
+      <entry key="MS500" value="3.806000829239089" />
+      <entry key="S2" value="6.641552770168366" />
+      <entry key="S5" value="11.104812415082044" />
+      <entry key="S10" value="19.116795912750515" />
+      <entry key="S30" value="38.616102342552225" />
+      <entry key="S60" value="51.68881946961873" />
+      <entry key="M2" value="66.31158137588282" />
+      <entry key="M5" value="94.77198560953191" />
+      <entry key="M10" value="126.69107902491979" />
+      <entry key="M15" value="148.53156291951294" />
+      <entry key="M30" value="185.09769596428586" />
+      <entry key="H1" value="213.43848118574022" />
+      <entry key="H2" value="231.51383617043848" />
+      <entry key="H4" value="241.7848315380251" />
+      <entry key="D1" value="251.0609180844503" />
+      <entry key="W1" value="252.72121722117996" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JeQBvkT2cRi9eeIqBWJNsGSS3s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.All in lab2-branching-and-merging.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="All in lab2-branching-and-merging" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab2-branching-and-merging" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in lab2-branching-and-merging" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f226d91-71c9-4c6d-8f2e-e9f7eb0fc9dd" name="Changes" comment="" />
+      <created>1790018921956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790018921956</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="b0015586-6295-4426-97eb-ded27189b963" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="b0015586-6295-4426-97eb-ded27189b963">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="task_1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
