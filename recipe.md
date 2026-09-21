@@ -19,7 +19,7 @@ This recipe makes a three-layer celebration cake with a caramel filling between 
 ## Filling
 
 - 1 1/2 cups salted caramel sauce
-- 1 cup chopped toasted pecans
+- 1 cup chopped toasted pistachios
 
 ## Frosting
 
