@@ -1,4 +1,4 @@
-# Chocolate Caramel Celebration Cake
+# Reuben's Chocolate Caramel Celebration Cake
 
 This recipe makes a three-layer celebration cake with a caramel filling between each layer and vanilla frosting on the outside.
 
