@@ -1,4 +1,4 @@
-# Celebration Layer Cake
+# Celebration Layer Cake <3
 
 This recipe makes a three-layer celebration cake with a filling between each layer and frosting on the outside.
 
@@ -13,8 +13,8 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 - 1 cup milk
 - 1/2 cup vegetable oil
 - 2 teaspoons vanilla extract
-- [CAKE FLAVOUR]
-- [SPECIAL CAKE INGREDIENT]
+- 3/4 cup unsweetened cocoa powder
+- 1 cup dark chocolate chips
 
 ## Filling
 
@@ -62,4 +62,4 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 
 13. Decorate the cake with [DECORATION].
 
-14. Add [FINISHING TOUCH] just before serving.
+14. Add [FINISHING TOUCH] just before serving. 
