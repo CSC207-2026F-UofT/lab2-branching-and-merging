@@ -13,26 +13,26 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 - 1 cup milk
 - 1/2 cup vegetable oil
 - 2 teaspoons vanilla extract
-- [CAKE FLAVOUR]
-- [SPECIAL CAKE INGREDIENT]
+- 3/4 cup unsweetened cocoa powder
+- 1 cup dark chocolate chips
 
 ## Filling
 
-- [FILLING]
-- [FILLING EXTRAS]
+- 1 1/2 cups raspberry preserves
+- 1 cup fresh raspberries
 
 ## Frosting
 
 - 1 cup unsalted butter, softened
 - 4 cups powdered sugar
 - 2 teaspoons vanilla extract
-- [FROSTING FLAVOUR]
-- [FROSTING EXTRAS]
+- 2 tablespoons heavy cream
+- Pinch of salt
 
 ## Decoration
 
-- [DECORATION]
-- [FINISHING TOUCH]
+- Fresh raspberries
+- A dusting of powdered sugar
 
 ## Instructions
 
@@ -40,9 +40,9 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 
 2. In a large bowl, whisk together the flour, sugar, baking powder, baking soda, and salt.
 
-3. Add the eggs, milk, vegetable oil, and vanilla. Mix until the batter is smooth.
+3. Add the eggs, milk, vegetable oil, and vanilla. Mix until the batter is smooth and well combined.
 
-4. Add [CAKE FLAVOUR] and [SPECIAL CAKE INGREDIENT]. Mix until evenly combined.
+4. Add the cocoa powder and dark chocolate chips. Mix until evenly combined.
 
 5. Divide the batter evenly among the three prepared pans.
 
@@ -50,9 +50,9 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 
 7. Let the cakes cool in their pans for 10 minutes, then transfer them to a wire rack to cool completely.
 
-8. Prepare the filling by combining [FILLING] with [FILLING EXTRAS].
+8. Prepare the filling by combining the raspberry preserves with the fresh raspberries.
 
-9. Prepare the frosting by beating the butter until creamy. Gradually add the powdered sugar and vanilla, followed by [FROSTING FLAVOUR].
+9. Prepare the frosting by beating the butter until creamy. Gradually add the powdered sugar and vanilla, followed by the heavy cream.
 
 10. Place the first cake layer on a serving plate and spread half of the filling over the top.
 
@@ -60,6 +60,6 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 
 12. Cover the top and sides of the cake with frosting.
 
-13. Decorate the cake with [DECORATION].
+13. Decorate the cake with fresh raspberries.
 
-14. Add [FINISHING TOUCH] just before serving.
+14. Add a dusting of powdered sugar just before serving.
