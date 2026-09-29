@@ -60,6 +60,6 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 
 12. Cover the top and sides of the cake with frosting.
 
-13. Decorate the cake with [DECORATION].
+13. Decorate the cake with [b].
 
 14. Add [FINISHING TOUCH] just before serving.
